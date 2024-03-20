@@ -1,6 +1,6 @@
 # Speeding up molecular analysis using Support Vector Machines
 
-<img src='Opening.jpg' width="250" height='400' align="right">
+<img src='Opening.jpg'>
 
 This project aims to accelerate molecular analysis through the application of Support Vector Machines (SVMs) in cheminformatics. Leveraging Simplified molecular-input line-entry system (SMILES) representations and molecular fingerprints, the project employs machine learning techniques to facilitate tasks such as virtual screening, QSAR modeling, and molecular property prediction. Utilizing the Quantum Mechanics Dataset 8 (QM8) as a benchmark dataset and framework, the project evaluates the performance of machine learning models in various molecular informatics and drug discovery tasks. You can find more information about the project here.
 
